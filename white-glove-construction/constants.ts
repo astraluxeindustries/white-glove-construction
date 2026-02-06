@@ -41,7 +41,7 @@ export const FEATURE_CARDS = [
   {
     title: "Commercial",
     subtitle: "Business spaces built for success.",
-    image: IMAGES.commercial,
+    image: "/images/the-finishing-touch-st-george2 (1).jpg",
     path: "/construction"
   },
   {
