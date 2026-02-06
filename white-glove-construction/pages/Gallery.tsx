@@ -35,7 +35,6 @@ const Gallery: React.FC = () => {
             {/* Section Title */}
             <div className="flex flex-col items-center mb-12">
                <h2 className="text-4xl font-serif text-gray-900 mb-2 text-center">{section.title}</h2>
-               <p className="text-gray-500 uppercase tracking-widest text-sm font-bold mb-4 text-center">{section.category}</p>
                <p className="text-gray-400 italic font-serif text-center max-w-md">{section.description}</p>
             </div>
 
