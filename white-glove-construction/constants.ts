@@ -41,7 +41,7 @@ export const FEATURE_CARDS = [
   {
     title: "Commercial",
     subtitle: "Business spaces built for success.",
-    image: "IMAGES.commercial",
+    image: IMAGES.commercial,
     path: "/construction"
   },
   {
