@@ -196,9 +196,6 @@ export const GALLERY_SECTIONS = [
       "/images/improved-floor-entryway-casing.jpg",
 ],
 },
-
-// Kept for backward compatibility if any component strictly requires a flat list,
-// though Gallery.tsx will now use GALLERY_SECTIONS
 export const GALLERY_IMAGES = [
   { src: IMAGES.kitchen, title: "Modern Luxury Kitchen", category: "Kitchen" },
   { src: IMAGES.pool, title: "Red Rock Pool", category: "Outdoor" },
