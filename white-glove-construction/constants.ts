@@ -32,9 +32,9 @@ export const IMAGES = {
   kitchen: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2053&auto=format&fit=crop", // Luxury Kitchen
   pool: "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?q=80&w=2070&auto=format&fit=crop", // Red rock pool vibe
   glove: "https://images.unsplash.com/photo-1581594966779-99a093b16752?q=80&w=2070&auto=format&fit=crop", // Abstract 'Service' / Construction
-  commercial: "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2069&auto=format&fit=crop", // Office/Commercial
-  residential: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2069&auto=format&fit=crop", // Home interior
-  finishing: "https://images.unsplash.com/photo-1558442074-3c192ebfae68?q=80&w=2070&auto=format&fit=crop" // Detail/Garden
+  commercial: "/images/IMG_2153 (1).jpg", // Office/Commercial
+  residential: "/images/excellence-design-st-george (1).jpg", // Home interior
+  finishing: "/images/the-finishing-touch-st-george2 (1).jpg" // Detail/Garden
 };
 
 export const FEATURE_CARDS = [
