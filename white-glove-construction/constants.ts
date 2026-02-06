@@ -196,6 +196,7 @@ export const GALLERY_SECTIONS = [
       "/images/improved-floor-entryway-casing.jpg",
 ],
 },
+  ];
 export const GALLERY_IMAGES = [
   { src: IMAGES.kitchen, title: "Modern Luxury Kitchen", category: "Kitchen" },
   { src: IMAGES.pool, title: "Red Rock Pool", category: "Outdoor" },
