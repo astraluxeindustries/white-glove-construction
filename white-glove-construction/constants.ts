@@ -193,6 +193,7 @@ export const GALLERY_SECTIONS = [
       "/images/new-concrete-garage-improvement.jpg",
       "/images/improved-landscape-patio.jpg",
       "/images/improved-floor-entryway-casing.jpg",
+   },
 ];
 
 // Kept for backward compatibility if any component strictly requires a flat list,
