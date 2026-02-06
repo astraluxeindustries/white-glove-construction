@@ -179,8 +179,9 @@ export const GALLERY_SECTIONS = [
       "/images/tub-full-relaxer.jpg",
       "/images/white-red-black-bathroom.jpg",
       "/images/modern-tiled-bathroom.jpg",
-    ]
-  {
+  ],
+},
+{
     title: "Outdoor Living",
     category: "Landscaping",
     description: "Pools, patios, and custom hardscapes.",
